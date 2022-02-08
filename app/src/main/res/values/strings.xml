@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">My Spinner</string>
+    <string name="label">label</string>
+    <string name="textview">TextView</string>
     <string-array name="planets_array">
         <item>Mercury</item>
         <item>Venus</item>
@@ -9,5 +11,6 @@
         <item>Saturn</item>
         <item>Uranus</item>
         <item>Neptune</item>
+        <item>Another Planet</item>
     </string-array>
 </resources>
